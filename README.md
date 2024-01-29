@@ -35,6 +35,7 @@ Teamwork
 Group members 
 -
 Rai Suhana(11485712) 
+Wong Sze Long(11485633)
 
 Clear division of labour 
 -
