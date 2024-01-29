@@ -11,6 +11,11 @@ We will analyse quotes from famous authors and philosophers to understand the fo
 
 Metadata List
 -
+Length: 1-3 sentences per quote 
+Language: English 
+Source: Articles
+Gender: Male and Female 
+Type: Profound insight 
 
 File Organisation
 -
