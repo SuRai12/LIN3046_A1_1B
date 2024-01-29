@@ -29,20 +29,23 @@ Communication
 -
 
 Language 
-
+-
 
 Layout 
+-
 
 
 Teamwork 
 -
 
 Group members 
+-
 Rai Suhana(11485712) 
 Wong Sze Long(11485633)
 Yau Tsz Ching(11485607) 
 
 Clear division of labour 
+-
 20 quotes ( 5 quotes per person):
 Suhana ,Beth,Cyril,Faye 
 README FILE Creator: Beth 
@@ -50,6 +53,7 @@ README FILE Content: Suhana and Zero
 README FILE Organiser: FAYE 
 
 Contribution 
+-
 
 Suhana,Beth,Cyril,Faye
 
