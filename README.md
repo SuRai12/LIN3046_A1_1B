@@ -1,6 +1,7 @@
 #LIN3046_A1_1B
+-
 
-Purpose-
+Purpose
 -
 The goal is be to comprehend how perceptive individuals transform their inspiring concepts into coherent language. 
 
@@ -20,17 +21,23 @@ Language Data
 derived from articles,websites 
 
 Communication 
+-
 
 Language 
+-
 
 Layout 
+-
 
 Teamwork 
+-
 
 Group members 
+-
 Rai Suhana(11485712) 
 
 Clear division of labour 
+-
 Suhana,Beth,Cyril,Faye 
 
 Contribution 
