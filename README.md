@@ -7,7 +7,7 @@ We will analyse quotes from famous authors and philosophers to understand the fo
 Metadata List
 
 
-File Organisation 
+File Organisation:
 TXT file 
 
 Language Data
