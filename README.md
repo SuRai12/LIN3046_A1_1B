@@ -40,6 +40,7 @@ Teamwork
 Group members 
 Rai Suhana(11485712) 
 Wong Sze Long(11485633)
+Yau Tsz Ching(11485607) 
 
 Clear division of labour 
 20 quotes ( 5 quotes per person):
