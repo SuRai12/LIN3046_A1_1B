@@ -1,18 +1,22 @@
 #LIN3046_A1_1B
 
-Purpose
+Purpose-
+-
 The goal is be to comprehend how perceptive individuals transform their inspiring concepts into coherent language. 
 
-Scope: 
+Scope
+-
 We will analyse quotes from famous authors and philosophers to understand the formation  sentences structure.
 
 Metadata List
-
+-
 
 File Organisation
+-
 TXT file 
 
 Language Data
+-
 derived from articles,websites 
 
 Communication 
